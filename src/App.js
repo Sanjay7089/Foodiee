@@ -5,8 +5,8 @@ import Cart from "./componets/Cart/Cart";
 function App() {
   return (
     <>
-      <Header />
       <Cart />
+      <Header />
       <main>
         <Meals />
       </main>
